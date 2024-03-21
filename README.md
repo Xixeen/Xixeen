@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @Xixeen
 - Hello, I'm Xixeen. I am currently pursuing my undergraduate degree in Computer Science and Technology at Wuhan University's School of Computer Science.
 - 🌱 Currently learning:
-- <span style="color:white; background-color:#007bff; padding:3px; border-radius:5px;">Federated Learning</span>
-- <span style="color:white; background-color:#007bff; padding:3px; border-radius:5px;">Graph Learning</span>
-- <span style="color:white; background-color:#007bff; padding:3px; border-radius:5px;">Multimodal Learning</span>
+  <span style="color:white; background-color:#007bff; padding:3px; border-radius:5px;">Federated Learning</span>
+  <span style="color:white; background-color:#007bff; padding:3px; border-radius:5px;">Graph Learning</span>
+  <span style="color:white; background-color:#007bff; padding:3px; border-radius:5px;">Multimodal Learning</span>
+![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
+![Graph Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
+![Graph Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
+
 - 💞️ I'm looking forward to your cooperation.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
