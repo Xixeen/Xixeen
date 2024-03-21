@@ -1,11 +1,11 @@
 ## Hi there👋
 Hello, I'm Xixeen. I am currently pursuing my undergraduate degree in Computer Science and Technology at Wuhan University's School of Computer Science.
 ##  🌱 Currently learning:
-![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
-![Graph Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
-![Graph Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
+![Federated Learning](https://img.shields.io/badge/-Federated%5Learning-lightgrey)
+![Graph Learning](https://img.shields.io/badge/-Federated%5Learning-lightgrey)
+![Graph Learning](https://img.shields.io/badge/-Federated%5Learning-lightgrey)
 
-- 💞️ I'm looking forward to your cooperation.
+## ✨All Skills
 
 <!---
 Xixeen/Xixeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
