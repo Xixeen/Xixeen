@@ -1,11 +1,13 @@
-# Hi there👋
+## Hi there👋
 - Hello, I'm Xixeen. I am currently pursuing my undergraduate degree in Computer Science and Technology at Wuhan University's School of Computer Science.
 - 🌱 Currently learning:
-<hr style="border: 0.5px solid #CCCCCC;" />
+<hr style="border: 0.1px solid #CCCCCC;" />
+
 ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
 ![Graph Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
 ![Graph Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
-<hr style="border: 0.5px solid #CCCCCC;" />
+
+<hr style="border: 0.1px solid #CCCCCC;" />
 - 💞️ I'm looking forward to your cooperation.
 
 <!---
