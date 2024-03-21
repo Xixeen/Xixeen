@@ -4,6 +4,9 @@ Hello, I'm Xixeen. I am currently pursuing my undergraduate degree in Computer S
 ![Federated Learning](https://img.shields.io/badge/-Federated%5Learning-lightgrey)
 ![Graph Learning](https://img.shields.io/badge/-Federated%5Learning-lightgrey)
 ![Graph Learning](https://img.shields.io/badge/-Federated%5Learning-lightgrey)
+<p style="background-color: #f0f0f0; color: black; padding: 5px 10px; border-radius: 5px; display: inline-block;">
+  Federated Learning  Graph Learning Multimodal Learning
+</p>
 
 ## ✨All Skills
 
