@@ -1,5 +1,5 @@
 ## Hi there👋
-Hello, I'm Xixeen.😄 I am currently pursuing my undergraduate degree in Computer Science and Technology at Wuhan University's School of Computer Science.
+Hello, I'm Xixeen.😄 I am currently pursuing a Bachelor's degree in Computer Science and Technology at Wuhan University.
 ##  🌱 Currently learning:
 ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
 ![Graph Learning](https://img.shields.io/badge/-Graph%20Learning-lightgrey)
