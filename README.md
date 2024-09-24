@@ -3,7 +3,6 @@ Hello, I'm Xixeen.😄 I am currently pursuing a Bachelor's degree in Computer S
 ##  🌱 Currently learning:
 ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-lightgrey)
 ![Graph Learning](https://img.shields.io/badge/-Graph%20Learning-lightgrey)
-![Multimodal Learning](https://img.shields.io/badge/-Multimodal%20Learning-lightgrey)
 
 
 
