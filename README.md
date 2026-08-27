@@ -1,7 +1,4 @@
 
-[Homepage](https://zitongshi.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=gB8FS0MAAAAJ)
-
----
 
 ## 01 · About
 
